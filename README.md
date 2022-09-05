@@ -1,5 +1,4 @@
 # Olá, eu sou a Carol 👋
 
-🔭 Trabalho
-🌱 Estudando.
+🌱 Estudando
 😃 Pronouns: ela/dela - she/her
